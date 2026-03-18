@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sunil 
+<h1 align="center">Hi 👋, I'm Sunil</h1> 
                                                             
 # 💫 About Me:
 🎓 I am a Final Year Computer Science Student  <br>💻 Interested in Machine Learning and Data Science<br>📚 Currently learning AI, Python and Project Deployment  <br>🤝 Open to Internship and Collaboration Opportunities  <br>🚀 Goal: To become Data Science Engineer
