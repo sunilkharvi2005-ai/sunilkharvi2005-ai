@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Sunil 
+# Hi 👋, I'm Sunil
 ### 🚀 Data Science Engineer in the Making
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Final+Year+CS+Student;Machine+Learning+Enthusiast;Python+Developer;AI+Learner" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 I am a Final Year Computer Science Student at *SMCE*.  
-I am passionate about building models and extracting insights from data.
+I am passionate about Machine Learning and Data Science.
 
 📫 *Reach me at:*
 <p align="center">
@@ -32,13 +32,20 @@ I am passionate about building models and extracting insights from data.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sunilkharvi2005-ai&show_icons=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkharvi2005-ai&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sunilkharvi2005-ai&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkharvi2005-ai&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkharvi2005-ai&theme=radical&hide_border=true" />
 </p>
 
 </div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
