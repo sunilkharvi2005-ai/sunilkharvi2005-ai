@@ -1,24 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sunil</h1> 
-                                                            
-# 💫 About Me:
-🎓 I am a Final Year Computer Science Student  <br>💻 Interested in Machine Learning and Data Science<br>📚 Currently learning AI, Python and Project Deployment  <br>🤝 Open to Internship and Collaboration Opportunities  <br>🚀 Goal: To become Data Science Engineer
+<div align="center">
 
+# Hi 👋, I'm Sunil 
+### 🚀 Data Science Engineer in the Making
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sunilkharvi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sunilkharvi) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sunilkharvi) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilkharvi2005@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sunilkharvi2005-ai&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sunilkharvi2005-ai&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkharvi2005-ai&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Final+Year+CS+Student;Machine+Learning+Enthusiast;Python+Developer;AI+Learner" alt="Typing SVG" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sunilkharvi2005-ai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💫 About Me
+I am a Final Year Computer Science Student at *SMCE*.  
+I am passionate about building models and extracting insights from data.
+
+📫 *Reach me at:*
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sunilkharvi2005-ai&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkharvi2005-ai&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
