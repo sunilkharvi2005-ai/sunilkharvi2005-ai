@@ -22,7 +22,7 @@ I am passionate about Machine Learning and Data Science.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://facebook.com/Sunilkharvi Sunilkharvi ">
+<a href="https://facebook.com/https://www.facebook.com/share/18ELmwRkNu/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
