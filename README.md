@@ -29,7 +29,7 @@ I am passionate about Machine Learning and Data Science.
 <a href="mailto:sunilkharvi2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://youtube.com/Sunilkharvi Sunilkharvi">
+<a href="https://youtube.com/@sunilkharvisunilkharvi304">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </p>
